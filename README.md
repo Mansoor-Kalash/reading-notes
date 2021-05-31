@@ -1,3 +1,6 @@
+
+### My name is Mansoor Kalash, from Jordan and I am an Electrical Engineer.
+
 - # Growth Mindset
  ## ***Should keep yourself growth mindes to keep yourself improved in working and your life, it helps to achieves mor and higher goals.***
 
@@ -6,4 +9,4 @@
 - **Keep Learning to be ready for any opportunity**
 - **Setting goals to achieve**
 
-### My name is Mansoor Kalash, from Jordan and I am an Electrical Engineer.
+
