@@ -15,4 +15,4 @@
 **GitHub is a website for developers and programmers to collaboratively work on code. The primary benefit of GitHub is its version control system, which allows for seamless collaboration without compromising the integrity of the original project.**
 ### Other Benefit
 - Share the code
-- Facilitate team woerk and more
+- Facilitate team work and more
