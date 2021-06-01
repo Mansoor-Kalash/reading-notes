@@ -8,7 +8,7 @@
 3. then commit it that's by "git commit -m "etc." " command
 4. and push it by "git push origin main" command
 
-* ### what if i edit somthing from GitHup?
+* ### what if i edit something from GitHup?
 
 ***the git will be reject the push command, the solution is "git pull" command.***
 
