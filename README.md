@@ -8,7 +8,7 @@
 |  Read02       |[Read02](https://mansoor-kalash.github.io/reading-notes/Read02)              | 
 |  Read03 html  |[Read03](https://mansoor-kalash.github.io/reading-notes/Read03)              |
 | Read04 css    |[Read04](https://mansoor-kalash.github.io/reading-notes/Read04)              | 
-
+| Read06 JS     |[Read06](https://mansoor-kalash.github.io/reading-notes/Read06)              |
 
 
 
