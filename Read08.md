@@ -38,3 +38,15 @@ while (condition)
   _If the condition becomes false, statement within the loop stops executing and control passes to the statement following the loop._
 
 *** is used when don't know how many of iteration.***
+
+***infinite loop***
+
+- In for loop
+
+![for](for1.png)
+
+![for](for2.png)
+
+- In while loop
+
+![while](while1.png)
