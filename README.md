@@ -16,7 +16,7 @@
 
 | code 201      | Link                                                                        | 
 | ------------- |:---------------------------------------------------------------------------:| 
-|   Read:01     |[Read201](https://mansoor-kalash.github.io/reading-notes/code-201d31/Read201)| 
+|   Read201     |[Read201](https://mansoor-kalash.github.io/reading-notes/code-201d31/Read201)| 
 |               |                                                                             | 
 |               |                                                                             | 
 |               |                                                                             | 
