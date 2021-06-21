@@ -18,8 +18,4 @@
 | ------------- |:---------------------------------------------------------------------------:| 
 |   class-01.md |[class-01](https://mansoor-kalash.github.io/reading-notes/class-01)          | 
 |   class-02.md |[class-01](https://mansoor-kalash.github.io/reading-notes/class-02)          | 
-|               |                                                                             | 
-|               |                                                                             | 
-|               |                                                                             | 
-
-
+|   class-03.md |[class-01](https://mansoor-kalash.github.io/reading-notes/class-03)          | 
