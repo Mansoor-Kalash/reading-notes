@@ -43,11 +43,94 @@
 
 _By default a box is sized just big enough to hold its contents. To set your own dimensions for a box you can use the height and width properties._
 
+**Control Box Dimention** 
+the dimention of box can be change by Width & Height:
 
-
+![example](1.5.png)
 
 
 
 **Box model for borders, margin and padding**
+
+![example](1.6.png)
+
+
 **Displaying and hiding boxes**
+
+control of position pf element
+
+- Like Centering Content
+
+![example](1.7.png)
+
+
+-------------------------------------------------------------------------------------------
+
+# Bacic JavaScript Instruction 
+
+### STATEMENTS
+
+- A script is a series of instructions that a computer can follow one-by-one.
+- Each individual instruction or step is known as a statement.
+- Statements should end with a semicolon. 
+
+### COMMENTS
+
+- You should write comments to explain what your code does.
+- They help make your code easier to read and understand.
+- This can help you and others who read your code. 
+
+#### MULTI-LINE COMMENTS
+
+ /* Comment */
+
+ #### SINGLE-LINE COMMENTS 
+
+ // Comment
+
+ ## Variables
+
+#### Declear a Variable
+
+![example](1.8.png)
+
+#### Assign a Vaeiable
+
+![example](1.9.png)
+
+
+ **DATA TYPES**
+
+ NUMERIC DATA TYPE : The numeric data type handles numbers.
+
+ STRING DATA TYPE  :  The strings data type consists of letters and other characters.
+
+ BOOLEAN DATA TYPE  : Boolean data types can have one of two values: true or false. 
+
+ ### RULES FOR NAMING VARIABLES
+
+
+![example](1.10.png)
+
+
+-------------------------------------------------------------------
+
+## USING IF STATEMENTS
+
+![example](1.11.png)
+
+## USING ELESE IF STATEMENTS
+
+![example](1.12.png)
+
+## SWITCH STATEMENTS
+![example](1.13.png)
+
+## TRUTHY & FALSY VALUES 
+![example](1.14.png)
+
+
+
+ 
+
 
