@@ -17,5 +17,7 @@
 | code 201      | Link                                                                        | 
 | ------------- |:---------------------------------------------------------------------------:| 
 |   class-01.md |[class-01](https://mansoor-kalash.github.io/reading-notes/class-01)          | 
-|   class-02.md |[class-01](https://mansoor-kalash.github.io/reading-notes/class-02)          | 
-|   class-03.md |[class-01](https://mansoor-kalash.github.io/reading-notes/class-03)          | 
+|   class-02.md |[class-02](https://mansoor-kalash.github.io/reading-notes/class-02)          | 
+|   class-03.md |[class-03](https://mansoor-kalash.github.io/reading-notes/class-03)          | 
+|   class-04.md |[class-04](https://mansoor-kalash.github.io/reading-notes/class-04)          | 
+|   class-05.md |[class-05](https://mansoor-kalash.github.io/reading-notes/class-05)          | 
