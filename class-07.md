@@ -199,6 +199,7 @@ or column using the rowspan and colspan attributes.
 # Functions, Methods, and Objects
 
 ### CREATING OBJECTS USING CONSTRUCTOR SYNTAX
+
 ![table](5.5.png)
 
 
@@ -208,6 +209,7 @@ or column using the rowspan and colspan attributes.
 ### CREATE & ACCESS OBJECTS CONSTRUCTOR NOTATION
 
 ![table](5.6.png)
+
 ### ADDING AND REMOVING PROPERTIES
 
 ![table](5.7.png)
@@ -226,6 +228,7 @@ related values. In arrays and objects the name is also known as a key.
 
 
 ### USING THE DOCUMENT OBJECT
+
 ![table](5.10.png)
 
 
