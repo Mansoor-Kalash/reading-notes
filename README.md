@@ -27,3 +27,9 @@
 |   class-09.md |[class-09](https://mansoor-kalash.github.io/reading-notes/class-09)          |  
 |   class-10.md |[class-10](https://mansoor-kalash.github.io/reading-notes/class-10)          |  
 |   class-13.md |[class-13](https://mansoor-kalash.github.io/reading-notes/class-13)          | 
+
+
+
+| code 301      | Link                                                                        | 
+| ------------- |:---------------------------------------------------------------------------:| 
+|  class-001.md |[class-001](https://mansoor-kalash.github.io/reading-notes/class-001)        | 
