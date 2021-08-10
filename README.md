@@ -35,3 +35,6 @@
 |  class-001.md |[class-001](https://mansoor-kalash.github.io/reading-notes/class-001)        | 
 |  class-002.md |[class-002](https://mansoor-kalash.github.io/reading-notes/class-002)        |
 |  class-003.md |[class-003](https://mansoor-kalash.github.io/reading-notes/class-003)        |
+|  class-004.md |[class-004](https://mansoor-kalash.github.io/reading-notes/class-004)        |
+
+
