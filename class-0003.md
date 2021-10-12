@@ -38,3 +38,33 @@ Note:
 } catch (ExceptionName e1) {
    // Catch block
 }`
+
+# Scanner
+
+***The Scanner class is used to get user input, and it is found in the java.util package.***
+
+To use the Scanner class, create an object of the class and use any of the available methods found in the Scanner class documentation.
+
+ex:
+
+`import java.util.Scanner;  // Import the Scanner class`
+
+`class Main {
+  public static void main(String[] args) {
+    Scanner myObj = new Scanner(System.in);  // Create a Scanner object
+    System.out.println("Enter username");`
+
+    String userName = myObj.nextLine();  // Read user input
+    System.out.println("Username is: " + userName);  // Output user input}}
+
+if the input is `Mansoor`
+
+the output is  `Username is: Mansoor`
+
+the `nextLine()` method is used to read Strings.
+
+***Input Types***
+
+![scaner](./scaner.png)
+
+
