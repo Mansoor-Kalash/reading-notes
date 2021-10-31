@@ -48,6 +48,10 @@
 |  class-0009.md|[class-0009](https://mansoor-kalash.github.io/reading-notes/class-0009)      |
 |  class-00011.md|[class-00011](https://mansoor-kalash.github.io/reading-notes/class-00011)   |
 |  class-00012.md|[class-00012](https://mansoor-kalash.github.io/reading-notes/class-00012)   |
+|  class-00013.md|[class-00013](https://mansoor-kalash.github.io/reading-notes/class-00013)   |
+|  class-00016.md|[class-00016](https://mansoor-kalash.github.io/reading-notes/class-00016)   |
+
+
 
 
 
